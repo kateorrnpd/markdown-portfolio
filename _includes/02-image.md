@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Profile Picure](https://www.clipartmax.com/png/middle/166-1665957_vaimo-worldline-reference-smile-smile-open-source-solutions.png)
